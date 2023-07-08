@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a web & mobile developer, currently in my last year of uni.
-- 🌱 I’m currently learning Kotlin/Android development.
+I'm a web & mobile developer, just graduated from university Odisee with honors.
+- 🌱 I’m currently following the Three.JS course from <a href="https://threejs-journey.com/">ThreeJS-Journey</a>.
 - 📫 How to reach me: zelotbe@gmail.com | Discord: Zelotbe#8098
 ## Languages
 <p align="center">
