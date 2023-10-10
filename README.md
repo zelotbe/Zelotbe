@@ -5,6 +5,6 @@ I'm a web & mobile developer, just graduated from university Odisee with honors.
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,vue,laravel,docker,nodejs,androidstudio,kotlin,java,unity,cs,bots&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,threejs,php,vue,laravel,docker,nodejs,androidstudio,kotlin,java,unity,cs,bots&perline=6" />
   </a>
 </p>
