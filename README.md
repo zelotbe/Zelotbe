@@ -2,6 +2,15 @@
 I'm a web & mobile developer, just graduated from university Odisee with honors.
 - 🌱 I’m currently following the Three.JS course from <a href="https://threejs-journey.com/">ThreeJS-Journey</a>.
 - 📫 How to reach me: zelotbe@gmail.com | Discord: Zelotbe#8098
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/zelotbe"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## Languages
 <p align="center">
   <a href="https://skillicons.dev">
