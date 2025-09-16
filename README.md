@@ -1,7 +1,4 @@
 ### Hi there 👋
-I'm a web & mobile developer, just graduated from university Odisee with honors.
-📫 How to reach me: zelotbe@gmail.com | Discord: Zelotbe#8098
-
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/zelotbe"
